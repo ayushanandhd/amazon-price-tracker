@@ -1,2 +1,2 @@
-# amazon-price-tracker
-This program tracks the price of a product on amazon and sends you an email when the price changes.
+# amazon price tracker
+A simple program made using python that tracks the price of a product and mails you when the price changes.
